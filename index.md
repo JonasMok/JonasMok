@@ -17,7 +17,7 @@ Como especialista em ciência de dados e economista, meu foco é utilizar técni
 
  - Estratégia data-driven: Liderança na definição de estratégia e execução de quais produtos de dados a serem construídos (arquitetura de dados, pipeline de dados, datalake, dashboards,   relatórios, modelos preditivos, classificação, recomendação, etc)
  - Elaboração de kpis e índices: ideação, concepção e criação de métricas/kpis para mensuração de impacto e resultados em empresas, políticas públicas, ações de marketing, comercial, etc [exemplo](https://www.estadao.com.br/sustentabilidade/como-nascem-os-lixoes-no-brasil/). 
-Desenvolvimento de Modelos de Machine Learning: Criação e implementação de modelos avançados para identificação, classificação, recomendação, otimização de processos e previsão de tendências.
+ - Desenvolvimento de Modelos de Machine Learning: Criação e implementação de modelos avançados para identificação, classificação, recomendação, otimização de processos e previsão de tendências.
  - Análise e Visualização de Dados: Construção de dashboards com análises profundas para identificar oportunidades de negócios e melhorias operacionais [exemplo](https://relatoriomunicipal.streamlit.app/).
  - Colaboração Multidisciplinar: Trabalho com equipes de tecnologia (devs, eng. de dados, arq. de dados), vendas/comercial, growth, marketing e produto para alinhar soluções de dados aos objetivos estratégicos.
  - Liderança e Mentoria Técnica: Gestão e orientação de equipes de dados, garantindo melhores práticas e inovação contínua.
