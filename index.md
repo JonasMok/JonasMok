@@ -7,7 +7,7 @@ feature_image: "assets/wabi-sabi-2.png"
 excerpt: "Sou um cientista de dados com experiência em desenvolver e implementar soluções avançadas de dados e IA para resolver problemas complexos de negócios. Com uma abordagem orientada por dados e análise econômica, eu transformo insights em estratégias acionáveis para promover crescimento e inovação."
 ---
 
-Mestre em Data Science e Analytics pela Cardiff University suportado pela bolsas de estudos [Chevening](https://www.chevening.org/scholarships/) e Mestre em Economia pela Fundação Getulio Vargas, economista pela UNICAMP e mais de 15 anos de experiência profissional
+Mestre em Data Science e Analytics pela Cardiff University (suportado pela bolsas de estudos [Chevening](https://www.chevening.org/scholarships/)) e Mestre em Economia pela Fundação Getulio Vargas, economista pela UNICAMP e mais de 15 anos de experiência profissional
 
 Como especialista em ciência de dados e economista, meu foco é utilizar técnicas avançadas de análise de dados e inteligência artificial para otimizar processos e gerar valor real para as organizações. 
 
