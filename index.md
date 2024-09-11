@@ -1,7 +1,7 @@
 ---
-title: "Portfólio Jonas Okawara"
+title: "Portfólio"
 feature_text: |
-  ## Bem-vindo ao Portfólio Jonas Okawara
+  ## Bem-vindo ao Portfólio do Jonas Okawara
   Explorando o poder da ciência de dados e IA para criar soluções impactantes
 feature_image: "assets/wabi-sabi-2.png"
 excerpt: "Sou um cientista de dados com experiência em desenvolver e implementar soluções avançadas de dados e IA para resolver problemas complexos de negócios. Com uma abordagem orientada por dados e análise econômica, eu transformo insights em estratégias acionáveis para promover crescimento e inovação."
