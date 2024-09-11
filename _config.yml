@@ -1,5 +1,5 @@
-  # Básico
-title: "Portfólio Jonas Okawara"
+# Básico
+title: "Portfólio de Jonas Okawara"
 description: "Bem-vindo ao meu portfólio pessoal."
 baseurl: "" # Deixe vazio para GitHub Pages
 url: "https://jonasmok.github.io/JonasMok/" # Substitua 'username' pelo seu nome de usuário do GitHub
@@ -11,11 +11,11 @@ author:
 
 # SEO
 seo:
-  Linkedin: "www.linkedin.com/in/jonas-manabu-okawara"
+  linkedin: "https://www.linkedin.com/in/jonas-manabu-okawara"
   github_username: "JonasMok"
   
 # Tema
-theme: jekyll-theme-alembic
+theme: alembic # Nome correto do tema para GitHub Pages
 
 # Layout
 paginate: 5 # Número de posts por página
@@ -25,15 +25,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Links de Navegação
-
-
 # Configurações do Tema Alembic
 show_excerpts: true # Mostra um resumo dos posts
 show_related_posts: true # Mostra posts relacionados no final de cada post
 show_tags: true # Mostra tags associadas aos posts
-
-
 
 # Outros
 markdown: kramdown
