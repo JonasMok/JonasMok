@@ -4,5 +4,5 @@ Este é o repositório do meu portfólio pessoal usando o tema Alembic para Jeky
 
 ## Visite Meu Portfólio
 
-Confira meu portfólio ao vivo em: [https://JonasOkawara.github.io](https://JonasOkawara.github.io)
+Confira meu portfólio ao vivo em: [https://JonasOkawara.github.io](https://jonasmok.github.io/JonasMok/)
 
