@@ -19,7 +19,7 @@ Minha habilidade em comunicar insights complexos de maneira clara e envolvente p
 
 ## Experiência, Projetos e portfólio:
 
- - Estratégia data-driven: Liderança na definição de estratégia e execução de quais produtos de dados a serem construídos para as necessidades da empresa/instituição (arquitetura de dados, pipeline de dados, datalake, dashboards,   relatórios, modelos preditivos, classificação, recomendação, etc)
+ - Estratégia data-driven: Liderança na definição de estratégia, desenho de roadmap e execução de quais produtos de dados a serem construídos para as necessidades da empresa/instituição (arquitetura de dados, pipeline de dados, datalake, dashboards,   relatórios, modelos preditivos, classificação, recomendação, etc)
  - Elaboração de kpis e índices: ideação, concepção e criação de métricas/kpis para mensuração de impacto e resultados em empresas, políticas públicas, ações de marketing, comercial entre outros. [Alguns estudos repercutiram na mídia](https://www.estadao.com.br/sustentabilidade/como-nascem-os-lixoes-no-brasil/). 
  - Desenvolvimento de Modelos de Machine Learning: Criação e implementação de modelos avançados para identificação, segmentação, recomendação, otimização de processos, geolocalização, elasticidade preço, e previsão em diferentes escopos (CRM - aquisição, retenção, frequência / Growth / Planning / Marketing e políticas públicas)
  - Análise, Visualização de Dados e relatórios de diagnóstico: Construção de dashboards e relatórios com análises profundas para identificar oportunidades de negócios e melhorias operacionais [Case dashboard: acompanhamento de execução orçamentária de todos os municípios brasileiros](https://relatoriomunicipal.streamlit.app/).
