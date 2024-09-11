@@ -109,7 +109,9 @@ favicons:
   1024: '/assets/logos/logo@1024px.png'
 
 # 9. Site navigation
-#navigation_header:
+navigation_header:
+  - title: "Home"
+    url: "/"
 
 
 navigation_footer:
