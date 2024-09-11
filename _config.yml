@@ -111,7 +111,7 @@ favicons:
 # 9. Site navigation
 navigation_header:
   - title: "Home"
-    url: "/"
+    url: "https://jonasmok.github.io/JonasMok/"
 
 
 navigation_footer:
