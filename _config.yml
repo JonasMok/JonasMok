@@ -33,9 +33,7 @@ author: Jonas Okawara # nome do autor
 social: # jekyll-seo-tag > social overrides
   name: Jonas Okawara # Nome real
   links:  # Perfis de redes sociais
-    - https://twitter.com/JonasOkawara
-    - https://www.facebook.com/seu_perfil
-    - https://www.linkedin.com/in/seu_perfil
+    - https://www.linkedin.com/in/jonas-manabu-okawara
     - https://github.com/JonasOkawara
 
 # Markdown e CommonMark settings
@@ -67,7 +65,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Imagem padrão para compartilhamento
+      image: "/assets/wabi-sabi.png" # Imagem padrão para compartilhamento
   -
     scope:
       path: ""
@@ -87,10 +85,10 @@ lang: pt-BR # Idioma do site
 title: "Portfólio de Jonas Okawara" # Nome ou título do site
 logo: "/assets/logos/logo.svg" # Logotipo do site
 description: "Portfólio de Jonas Okawara, apresentando projetos e ideias." # Descrição do site
-url: "https://JonasOkawara.github.io" # URL do seu site
+url: "https://jonasmok.github.io/JonasMok/" # URL do seu site
 baseurl: "" # URL base, vazio para GitHub Pages
-repo: "https://github.com/JonasOkawara/portfolio" # URL do repositório no GitHub
-email: "seuemail@exemplo.com" # Seu e-mail de contato
+repo: "https://github.com/JonasMok" # URL do repositório no GitHub
+email: "jonas.ok@gmail.com" # Seu e-mail de contato
 # disqus: "alembic-1" # Comentários de blog, descomente e adicione o ID do site do Disqus
 # date_format: "%-d %B %Y" # Formato de data para posts
 # google_analytics: "UA-XXXXX-Y" # ID do Google Analytics
@@ -112,23 +110,16 @@ favicons:
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
-- title: Projetos
-  url: /projects/
-- title: Blog
-  url: /blog/
-- title: Contato
-  url: /contact/
+
 
 navigation_footer:
 - title: Criado por Jonas Okawara
-  url: https://JonasOkawara.github.io
+  url: https://jonasmok.github.io/JonasMok/
 
 social_links:
-  Twitter: https://twitter.com/JonasOkawara
-  LinkedIn: https://www.linkedin.com/in/JonasOkawara
-  GitHub: https://github.com/JonasOkawara
+  
+  LinkedIn: https://www.linkedin.com/in/jonas-manabu-okawara
+  GitHub: https://github.com/JonasMok
   RSS: /feed.xml
 
 sharing_links:
