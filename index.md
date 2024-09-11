@@ -9,7 +9,7 @@ excerpt: "Sou um cientista de dados com experiência em desenvolver e implementa
 
 Mestre em Data Science e Analytics pela Cardiff University (contemplado pelo programa [Chevening Scholarships](https://www.chevening.org/scholarships/)), Mestre em Economia pela Fundação Getulio Vargas, economista pela UNICAMP e mais de 15 anos de experiência profissional
 
-Como especialista em ciência de dados e economista, meu foco é utilizar técnicas avançadas de análise de dados e inteligência artificial para otimizar processos e gerar valor real para as organizações. 
+Como especialista em ciência de dados e economista, meu foco é utilizar técnicas avançadas de análise de dados e inteligência artificial para otimizar processos e gerar valor real para as organizações privadas e públicas. 
 
 Tenho experiência comprovada na liderança de projetos que envolvem desde a fundamentação de dados, a definição de métricas e KPIs até a criação e deploy de modelos de machine learning, sempre buscando soluções que impactem positivamente os resultados de negócio. 
 
