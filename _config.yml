@@ -1,4 +1,4 @@
-# Básico
+  # Básico
 title: "Portfólio Jonas Okawara"
 description: "Bem-vindo ao meu portfólio pessoal."
 baseurl: "" # Deixe vazio para GitHub Pages
@@ -29,8 +29,6 @@ plugins:
 navigation:
   - title: "Sobre"
     url: /about/
-  - title: "Projetos"
-    url: /projects/
   - title: "Contato"
     url: /contact/
 
