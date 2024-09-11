@@ -1,35 +1,144 @@
-# Básico
-title: "Portfólio de Jonas Okawara"
-description: "Bem-vindo ao meu portfólio pessoal."
-baseurl: "" # Deixe vazio para GitHub Pages
-url: "https://jonasmok.github.io/JonasMok/" # Substitua 'username' pelo seu nome de usuário do GitHub
+# 1. Files excluded from Jekyll builds
+exclude:
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - screenshot.png
+  - LICENSE
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - alembic-jekyll-theme.gemspec
+  - .jekyll-cache
 
-# Autor
-author:
-  name: "Jonas Okawara"
-  email: "jonas.ok@gmail.com"
-
-# SEO
-seo:
-  linkedin: "https://www.linkedin.com/in/jonas-manabu-okawara"
-  github_username: "JonasMok"
-  
-# Tema
-theme: alembic # Nome correto do tema para GitHub Pages
-
-# Layout
-paginate: 5 # Número de posts por página
-
-# Plugins
+# 2. Installed Gems
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
 
-# Configurações do Tema Alembic
-show_excerpts: true # Mostra um resumo dos posts
-show_related_posts: true # Mostra posts relacionados no final de cada post
-show_tags: true # Mostra tags associadas aos posts
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: JonasOkawara # seu username do Twitter
+author: Jonas Okawara # nome do autor
+social: # jekyll-seo-tag > social overrides
+  name: Jonas Okawara # Nome real
+  links:  # Perfis de redes sociais
+    - https://twitter.com/JonasOkawara
+    - https://www.facebook.com/seu_perfil
+    - https://www.linkedin.com/in/seu_perfil
+    - https://github.com/JonasOkawara
 
-# Outros
-markdown: kramdown
-highlighter: rouge
+# Markdown e CommonMark settings
+# markdown: CommonMark
+# commonmark:
+#   options: ["SMART", "FOOTNOTES"]
+#   extensions: ["strikethrough", "autolink", "table"]
+
+# 4. Jekyll settings
+sass:
+  style: compressed # compressão de estilo CSS
+permalink: pretty  # estilo de permalink (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marca o final do resumo nos posts
+timezone: America/Sao_Paulo # Fuso horário para posts
+
+# 5. Collections
+collections:
+  posts:
+    title: Posts # Título da coleção de posts
+    output: true
+    description: "Meus pensamentos e ideias" # Descrição da página de listagem de posts
+    feature_text: |
+      Bem-vindo ao blog
+    feature_image: "https://picsum.photos/2560/600?image=866"
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/default-social-image.png" # Imagem padrão para compartilhamento
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Layout padrão para posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Layout padrão para páginas
+
+# 7. Site settings
+encoding: utf-8 # Codificação do site
+lang: pt-BR # Idioma do site
+title: "Portfólio de Jonas Okawara" # Nome ou título do site
+logo: "/assets/logos/logo.svg" # Logotipo do site
+description: "Portfólio de Jonas Okawara, apresentando projetos e ideias." # Descrição do site
+url: "https://JonasOkawara.github.io" # URL do seu site
+baseurl: "" # URL base, vazio para GitHub Pages
+repo: "https://github.com/JonasOkawara/portfolio" # URL do repositório no GitHub
+email: "seuemail@exemplo.com" # Seu e-mail de contato
+# disqus: "alembic-1" # Comentários de blog, descomente e adicione o ID do site do Disqus
+# date_format: "%-d %B %Y" # Formato de data para posts
+# google_analytics: "UA-XXXXX-Y" # ID do Google Analytics
+# google_analytics_anonymize_ip: ""
+# service_worker: false # Desativa o service worker se definido como false
+# short_name: "Jonas" # Nome curto para a aplicação web, padrão é o título do site
+css_inline: true # Incluir todos os estilos em um único bloco <style> no <head> e remover o link <style>
+
+# 8. Site favicons & manifest icons
+favicons:
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  96: '/assets/logos/logo@96px.png'
+  120: '/assets/logos/logo@120px.png'
+  144: '/assets/logos/logo@144px.png'
+  180: '/assets/logos/logo@180px.png'
+  512: '/assets/logos/logo@512px.png'
+  1024: '/assets/logos/logo@1024px.png'
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Projetos
+  url: /projects/
+- title: Blog
+  url: /blog/
+- title: Contato
+  url: /contact/
+
+navigation_footer:
+- title: Criado por Jonas Okawara
+  url: https://JonasOkawara.github.io
+
+social_links:
+  Twitter: https://twitter.com/JonasOkawara
+  LinkedIn: https://www.linkedin.com/in/JonasOkawara
+  GitHub: https://github.com/JonasOkawara
+  RSS: /feed.xml
+
+sharing_links:
+  Twitter: "#0d94e7"
+  Facebook: "#3B5998"
+  Email: true
+
+# Carregar fontes personalizadas
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
