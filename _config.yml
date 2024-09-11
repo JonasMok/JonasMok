@@ -83,7 +83,7 @@ defaults:
 encoding: utf-8 # Codificação do site
 lang: pt-BR # Idioma do site
 title: "Portfólio de Jonas Okawara" # Nome ou título do site
-logo: "/assets/logos/logo.svg" # Logotipo do site
+#logo: "/assets/logos/logo.svg" # Logotipo do site
 description: "Portfólio de Jonas Okawara, apresentando projetos e ideias." # Descrição do site
 url: "https://jonasmok.github.io/JonasMok/" # URL do seu site
 baseurl: "" # URL base, vazio para GitHub Pages
