@@ -25,7 +25,7 @@ Desenvolvimento de Modelos de Machine Learning: Criação e implementação de m
 
 Estou sempre aberto a novas oportunidades de colaboração e projetos inovadores. Vamos conectar!
 
-[LinkedIn](www.linkedin.com/in/jonas-manabu-okawara)
-[GitHub](https://github.com/JonasMok)
-[E-mail](jonas.ok@gmail.com)
+[LinkedIn](www.linkedin.com/in/jonas-manabu-okawara/)
+[GitHub](https://github.com/JonasMok/)
+[E-mail](jonas.ok@gmail.com/)
 
