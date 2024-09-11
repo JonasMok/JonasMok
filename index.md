@@ -1,6 +1,6 @@
----title: Portfólio Jonas Okawara
+---
+title: Portfólio Jonas Okawara
 feature_text: |
-
  ## Bem-vindo ao meu Portfólio
 Explorando o poder da ciência de dados e IA para criar soluções impactantes
 feature_image: "assets/wabi-sabi.png"
