@@ -13,13 +13,14 @@ Como especialista em ciência de dados e economista, meu foco é utilizar técni
 {% include button.html text="Veja meu GitHub" icon="github" link="https://github.com/JonasMok" color="#0366d6" %} {% include button.html text="Conecte-se no LinkedIn" link="www.linkedin.com/in/jonas-manabu-okawara" color="#0d94e7" %} {% include button.html text="Entre em contato" icon="envelope" link="jonas.ok
 @gmail.com" color="#f68140" %}
 
-Experiência, Projetos e portfólio:
-Estratégia data-driven: Liderança na definição de estratégia e execução de quais produtos de dados a serem construídos (arquitetura de dados, pipeline de dados, datalake, dashboards, relatórios, modelos preditivos, classificação, recomendação, etc)
-Elaboração de kpis e índices: ideação, concepção e criação de métricas/kpis para mensuração de impacto e resultados em empresas, políticas públicas, ações de marketing, comercial, etc [exemplo](https://www.estadao.com.br/sustentabilidade/como-nascem-os-lixoes-no-brasil/). 
+## Experiência, Projetos e portfólio:
+
+ - Estratégia data-driven: Liderança na definição de estratégia e execução de quais produtos de dados a serem construídos (arquitetura de dados, pipeline de dados, datalake, dashboards,   relatórios, modelos preditivos, classificação, recomendação, etc)
+ - Elaboração de kpis e índices: ideação, concepção e criação de métricas/kpis para mensuração de impacto e resultados em empresas, políticas públicas, ações de marketing, comercial, etc [exemplo](https://www.estadao.com.br/sustentabilidade/como-nascem-os-lixoes-no-brasil/). 
 Desenvolvimento de Modelos de Machine Learning: Criação e implementação de modelos avançados para identificação, classificação, recomendação, otimização de processos e previsão de tendências.
-Análise e Visualização de Dados: Construção de dashboards com análises profundas para identificar oportunidades de negócios e melhorias operacionais [exemplo](https://relatoriomunicipal.streamlit.app/).
-Colaboração Multidisciplinar: Trabalho com equipes de tecnologia (devs, eng. de dados, arq. de dados), vendas/comercial, growth, marketing e produto para alinhar soluções de dados aos objetivos estratégicos.
-Liderança e Mentoria Técnica: Gestão e orientação de equipes de dados, garantindo melhores práticas e inovação contínua.
+ - Análise e Visualização de Dados: Construção de dashboards com análises profundas para identificar oportunidades de negócios e melhorias operacionais [exemplo](https://relatoriomunicipal.streamlit.app/).
+ - Colaboração Multidisciplinar: Trabalho com equipes de tecnologia (devs, eng. de dados, arq. de dados), vendas/comercial, growth, marketing e produto para alinhar soluções de dados aos objetivos estratégicos.
+ - Liderança e Mentoria Técnica: Gestão e orientação de equipes de dados, garantindo melhores práticas e inovação contínua.
 
 
 Estou sempre aberto a novas oportunidades de colaboração e projetos inovadores. Vamos conectar!
