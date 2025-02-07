@@ -1,10 +1,10 @@
 ---
-title: "Portfólio"
+title: "About me"
 feature_text: |
   ## Bem-vindo ao Portfólio do Jonas Okawara
-  Explorando o poder da ciência de dados e IA para criar soluções impactantes
+  Ciência de dados e economia aplicada para criar soluções impactantes
 feature_image: "assets/wabi-sabi-2.png"
-excerpt: "Sou um cientista de dados com experiência em desenvolver e implementar soluções avançadas de IA para resolver problemas complexos de negócios. Com uma abordagem orientada por dados e análise econômica, eu transformo insights em estratégias acionáveis para promover crescimento e inovação."
+excerpt: "Sou um cientista de dados com experiência em desenvolver e implementar soluções avançadas de IA para resolver problemas complexos de negócios. Com uma abordagem orientada por dados e teoria econômica, eu transformo insights em estratégias acionáveis para promover crescimento e inovação."
 ---
 
 Mestre em Data Science e Analytics pela Cardiff University (contemplado pelo programa [Chevening Scholarships](https://www.chevening.org/scholarships/)), Mestre em Economia pela Fundação Getulio Vargas, economista pela UNICAMP e mais de 15 anos de experiência profissional
